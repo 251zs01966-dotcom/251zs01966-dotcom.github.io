@@ -70,6 +70,8 @@ tr:nth-child(2n) {
 th {
   background: var(--theme-color);
   color: #fff;
+  width: 140px;
+  white-space: nowrap;
 }
 th, td {
   border: solid 1px #f0f0f0;
